@@ -1,6 +1,6 @@
 [project]
 name = "automa_case_study"
-version = "0.1.1"
+version = "0.1.2"
 description = "Case Study 4: Automation and Security"
 authors = [{name="JaideepSingh2", email="117457956+JaideepSingh2@users.noreply.github.com"}]
 readme = "README.md"
