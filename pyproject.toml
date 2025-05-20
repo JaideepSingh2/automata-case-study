@@ -1,0 +1,15 @@
+[project]
+name = "automa_case_study"
+version = "0.1.0"
+description = "Case Study 4: Automation and Security"
+authors = [{name="JaideepSingh2", email="117457956+JaideepSingh2@users.noreply.github.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
